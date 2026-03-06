@@ -23,7 +23,5 @@ Full stack login and registration system built with:
 3. Import database
 4. Open localhost/project-folder
 
-## Live Demo
 
-click here
 
